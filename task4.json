@@ -1,0 +1,20 @@
+{
+    "movie_name": "Coco",
+    "rating": "PG",
+    "Genre": [
+        "Music,",
+        "Comedy,",
+        "Adventure,",
+        "Animation"
+    ],
+    "Language": [
+        "English"
+    ],
+    "Director": [
+        " LeeUnkrich"
+    ],
+    "Runtime": 109,
+    "Distributor": [
+        "Disney"
+    ]
+}
